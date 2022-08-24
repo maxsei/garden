@@ -1,4 +1,9 @@
 # Zetteler
+## Technologies?
+1. HuGO theme
+2. PWA
+3. Protocol/Data model for tools to be built on top of
+
 ## Design Priniciples
 0. cards are simple and should be limited as much as possible with word count, formatting, etc. (it is possible rules for limiting the extensibility of an individual card should be set)
 1. interacting with the zettel should be textualar
