@@ -1,6 +1,6 @@
-# Zetteler
+# Gardener
 ## Technologies?
-1. HuGO theme
+1. HUGO theme
 2. PWA
 3. Protocol/Data model for tools to be built on top of
 
